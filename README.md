@@ -22,7 +22,7 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmanhasannejad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elman13&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ### 📫 How to reach me
 
-- Email: elman@example.com
-- Website: [nexasite.com](https://nexasite.com)
+- Email: elmanhsannejad55@gmail.com
+- Website: [elman.com]([https://nexasite.com](https://elman.vercel.app/))
 
 ---
 
